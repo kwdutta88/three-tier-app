@@ -1,5 +1,7 @@
 # Three Tier Python Flask Application Deployed on AWS using Terraform
 
+![three-tier-app](three-tier-app.png)
+
 ## Overview
 
 NewsRead is a Python Flask web application designed to serve as a news content aggregator. It is deployed on AWS using a three-tier architecture. This repository includes Terraform scripts that automate the deployment process on AWS.
